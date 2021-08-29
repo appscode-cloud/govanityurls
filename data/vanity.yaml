@@ -1,7 +1,17 @@
-# Example vanity.yaml
-
-host: gomodules.xyz
+host: go.bytebuilders.dev
 
 paths:
-  /sync:
-    repo: https://github.com/gomodules/sync
+  /audit:
+    repo: https://github.com/bytebuilders/audit
+  /client:
+    repo: https://github.com/bytebuilders/client-go
+  /installer:
+    repo: https://github.com/bytebuilders/installer
+  /license-tester:
+    repo: https://github.com/bytebuilders/license-tester
+  /license-verifier:
+    repo: https://github.com/bytebuilders/license-verifier
+  /resource-model:
+    repo: https://github.com/bytebuilders/resource-model
+  /ui-wizards:
+    repo: https://github.com/bytebuilders/ui-wizards
