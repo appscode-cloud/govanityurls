@@ -15,5 +15,7 @@ paths:
       - kubernetes
   /resource-model:
     repo: https://github.com/bytebuilders/resource-model
+  /uibuilder-tools:
+    repo: https://github.com/bytebuilders/uibuilder-tools
   /ui-wizards:
     repo: https://github.com/bytebuilders/ui-wizards
