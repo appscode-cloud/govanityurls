@@ -5,6 +5,8 @@ paths:
     repo: https://github.com/bytebuilders/audit
   /client:
     repo: https://github.com/bytebuilders/client-go
+  /configurator:
+    repo: https://github.com/bytebuilders/configurator
   /installer:
     repo: https://github.com/bytebuilders/installer
   /license-tester:
