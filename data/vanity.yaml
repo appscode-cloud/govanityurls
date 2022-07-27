@@ -11,6 +11,8 @@ paths:
     repo: https://github.com/bytebuilders/configurator
   /installer:
     repo: https://github.com/bytebuilders/installer
+  /license-proxyserver:
+    repo: https://github.com/bytebuilders/license-proxyserver
   /license-tester:
     repo: https://github.com/bytebuilders/license-tester
   /license-verifier:
