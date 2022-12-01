@@ -5,6 +5,10 @@ paths:
     repo: https://github.com/bytebuilders/audit
   /lib-selfhost:
     repo: https://github.com/bytebuilders/lib-selfhost
+  /cloudflare-dns-proxy:
+    repo: https://github.com/bytebuilders/cloudflare-dns-proxy
+  /smtp-proxy:
+    repo: https://github.com/bytebuilders/smtp-proxy
   /client:
     repo: https://github.com/bytebuilders/client-go
   /configurator:
