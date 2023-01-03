@@ -3,6 +3,8 @@ host: go.bytebuilders.dev
 paths:
   /audit:
     repo: https://github.com/bytebuilders/audit
+  /b3:
+    repo: https://github.com/bytebuilders/b3
   /lib-selfhost:
     repo: https://github.com/bytebuilders/lib-selfhost
   /cloudflare-dns-proxy:
