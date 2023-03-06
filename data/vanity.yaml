@@ -27,6 +27,8 @@ paths:
     repo: https://github.com/bytebuilders/license-verifier
     versions:
       - kubernetes
+  /nats-logger:
+    repo: https://github.com/bytebuilders/nats-logger
   /offline-license-server:
     repo: https://github.com/bytebuilders/offline-license-server
   /resource-model:
