@@ -1,6 +1,8 @@
 host: go.bytebuilders.dev
 
 paths:
+  /appcatalog:
+    repo: https://github.com/bytebuilders/appcatalog
   /audit:
     repo: https://github.com/bytebuilders/audit
   /b3:
