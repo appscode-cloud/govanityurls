@@ -7,6 +7,8 @@ paths:
     repo: https://github.com/bytebuilders/audit
   /b3:
     repo: https://github.com/bytebuilders/b3
+  /capi-net-configurator:
+    repo: https://github.com/bytebuilders/capi-net-configurator
   /lib-selfhost:
     repo: https://github.com/bytebuilders/lib-selfhost
   /cert-manager-webhook-appscode:
