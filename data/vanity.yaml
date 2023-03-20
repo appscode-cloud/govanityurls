@@ -37,6 +37,8 @@ paths:
     repo: https://github.com/bytebuilders/nats-logger
   /offline-license-server:
     repo: https://github.com/bytebuilders/offline-license-server
+  /products:
+    repo: https://github.com/bytebuilders/products
   /resource-model:
     repo: https://github.com/bytebuilders/resource-model
   /uibuilder-tools:
