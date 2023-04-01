@@ -11,8 +11,8 @@ paths:
     repo: https://github.com/bytebuilders/capi-netcfg
   /lib-selfhost:
     repo: https://github.com/bytebuilders/lib-selfhost
-  /cert-manager-webhook-appscode:
-    repo: https://github.com/bytebuilders/cert-manager-webhook-appscode
+  /cert-manager-webhook-ace:
+    repo: https://github.com/bytebuilders/cert-manager-webhook-ace
   /cloudflare-dns-proxy:
     repo: https://github.com/bytebuilders/cloudflare-dns-proxy
   /smtprelay:
