@@ -23,6 +23,8 @@ paths:
     repo: https://github.com/bytebuilders/configurator
   /installer:
     repo: https://github.com/bytebuilders/installer
+  /kube-auth-manager:
+    repo: https://github.com/bytebuilders/kube-auth-manager
   /kube-bind-server:
     repo: https://github.com/bytebuilders/kube-bind-server
   /license-proxyserver:
