@@ -9,6 +9,8 @@ paths:
     repo: https://github.com/bytebuilders/b3
   /capi-netcfg:
     repo: https://github.com/bytebuilders/capi-netcfg
+  /capa-vpc-peering-operator:
+    repo: https://github.com/bytebuilders/capa-vpc-peering-operator
   /lib-selfhost:
     repo: https://github.com/bytebuilders/lib-selfhost
   /cert-manager-webhook-ace:
