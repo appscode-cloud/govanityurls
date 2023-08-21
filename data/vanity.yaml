@@ -7,8 +7,8 @@ paths:
     repo: https://github.com/bytebuilders/audit
   /b3:
     repo: https://github.com/bytebuilders/b3
-  /capi-netcfg:
-    repo: https://github.com/bytebuilders/capi-netcfg
+  /capi-config:
+    repo: https://github.com/bytebuilders/capi-config
   /capa-vpc-peering-operator:
     repo: https://github.com/bytebuilders/capa-vpc-peering-operator
   /lib-selfhost:
