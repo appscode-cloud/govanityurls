@@ -1,34 +1,24 @@
 host: go.bytebuilders.dev
 
 paths:
-  /appcatalog:
-    repo: https://github.com/bytebuilders/appcatalog
+  /ace:
+    repo: https://github.com/bytebuilders/ace
   /audit:
     repo: https://github.com/bytebuilders/audit
   /b3:
     repo: https://github.com/bytebuilders/b3
-  /capi-config:
-    repo: https://github.com/bytebuilders/capi-config
-  /capa-vpc-peering-operator:
-    repo: https://github.com/bytebuilders/capa-vpc-peering-operator
-  /lib-selfhost:
-    repo: https://github.com/bytebuilders/lib-selfhost
   /cert-manager-webhook-ace:
     repo: https://github.com/bytebuilders/cert-manager-webhook-ace
-  /cloudflare-dns-proxy:
-    repo: https://github.com/bytebuilders/cloudflare-dns-proxy
-  /smtprelay:
-    repo: https://github.com/bytebuilders/smtprelay
   /client:
     repo: https://github.com/bytebuilders/client-go
-  /configurator:
-    repo: https://github.com/bytebuilders/configurator
+  /cloudflare-dns-proxy:
+    repo: https://github.com/bytebuilders/cloudflare-dns-proxy
   /installer:
     repo: https://github.com/bytebuilders/installer
   /kube-auth-manager:
     repo: https://github.com/bytebuilders/kube-auth-manager
-  /kube-bind-server:
-    repo: https://github.com/bytebuilders/kube-bind-server
+  /lib-selfhost:
+    repo: https://github.com/bytebuilders/lib-selfhost
   /license-proxyserver:
     repo: https://github.com/bytebuilders/license-proxyserver
   /license-tester:
@@ -36,7 +26,7 @@ paths:
   /license-verifier:
     repo: https://github.com/bytebuilders/license-verifier
     versions:
-      - kubernetes
+    - kubernetes
   /nats-logger:
     repo: https://github.com/bytebuilders/nats-logger
   /offline-license-server:
@@ -45,7 +35,9 @@ paths:
     repo: https://github.com/bytebuilders/products
   /resource-model:
     repo: https://github.com/bytebuilders/resource-model
-  /uibuilder-tools:
-    repo: https://github.com/bytebuilders/uibuilder-tools
+  /smtprelay:
+    repo: https://github.com/bytebuilders/smtprelay
   /ui-wizards:
     repo: https://github.com/bytebuilders/ui-wizards
+  /uibuilder-tools:
+    repo: https://github.com/bytebuilders/uibuilder-tools
