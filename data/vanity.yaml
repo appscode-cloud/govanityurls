@@ -17,6 +17,8 @@ paths:
     repo: https://github.com/bytebuilders/client-go
   /cloudflare-dns-proxy:
     repo: https://github.com/bytebuilders/cloudflare-dns-proxy
+  /cloud-marketplace-event-sink:
+    repo: https://github.com/appscode-cloud/cloud-marketplace-event-sink
   /cluster-presets:
     repo: https://github.com/bytebuilders/cluster-presets
   /installer:
