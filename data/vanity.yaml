@@ -2,54 +2,54 @@ host: go.bytebuilders.dev
 
 paths:
   /ace:
-    repo: https://github.com/bytebuilders/ace
+    repo: https://github.com/appscode-cloud/ace
   /audit:
-    repo: https://github.com/bytebuilders/audit
+    repo: https://github.com/appscode-cloud/audit
   /b3:
-    repo: https://github.com/bytebuilders/b3
+    repo: https://github.com/appscode-cloud/b3
   /catalog:
-    repo: https://github.com/bytebuilders/catalog
+    repo: https://github.com/appscode-cloud/catalog
   /catalog-manager:
-    repo: https://github.com/bytebuilders/catalog-manager
+    repo: https://github.com/appscode-cloud/catalog-manager
   /cert-manager-webhook-ace:
-    repo: https://github.com/bytebuilders/cert-manager-webhook-ace
+    repo: https://github.com/appscode-cloud/cert-manager-webhook-ace
   /client:
-    repo: https://github.com/bytebuilders/client-go
+    repo: https://github.com/appscode-cloud/client-go
   /cloudflare-dns-proxy:
-    repo: https://github.com/bytebuilders/cloudflare-dns-proxy
+    repo: https://github.com/appscode-cloud/cloudflare-dns-proxy
   /cloud-marketplace-event-sink:
     repo: https://github.com/appscode-cloud/cloud-marketplace-event-sink
   /cluster-presets:
-    repo: https://github.com/bytebuilders/cluster-presets
+    repo: https://github.com/appscode-cloud/cluster-presets
   /installer:
-    repo: https://github.com/bytebuilders/installer
+    repo: https://github.com/appscode-cloud/installer
   /kube-auth-manager:
-    repo: https://github.com/bytebuilders/kube-auth-manager
+    repo: https://github.com/appscode-cloud/kube-auth-manager
   /kube-bind:
-    repo: https://github.com/bytebuilders/kube-bind
+    repo: https://github.com/appscode-cloud/kube-bind
   /lib-selfhost:
-    repo: https://github.com/bytebuilders/lib-selfhost
+    repo: https://github.com/appscode-cloud/lib-selfhost
   /license-proxyserver:
-    repo: https://github.com/bytebuilders/license-proxyserver
+    repo: https://github.com/appscode-cloud/license-proxyserver
   /license-tester:
-    repo: https://github.com/bytebuilders/license-tester
+    repo: https://github.com/appscode-cloud/license-tester
   /license-verifier:
-    repo: https://github.com/bytebuilders/license-verifier
+    repo: https://github.com/appscode-cloud/license-verifier
     versions:
     - kubernetes
   /nats-logger:
-    repo: https://github.com/bytebuilders/nats-logger
+    repo: https://github.com/appscode-cloud/nats-logger
   /offline-license-server:
-    repo: https://github.com/bytebuilders/offline-license-server
+    repo: https://github.com/appscode-cloud/offline-license-server
   /products:
-    repo: https://github.com/bytebuilders/products
+    repo: https://github.com/appscode-cloud/products
   /resource-model:
-    repo: https://github.com/bytebuilders/resource-model
+    repo: https://github.com/appscode-cloud/resource-model
   /service-provider:
-    repo: https://github.com/bytebuilders/service-provider
+    repo: https://github.com/appscode-cloud/service-provider
   /smtprelay:
-    repo: https://github.com/bytebuilders/smtprelay
+    repo: https://github.com/appscode-cloud/smtprelay
   /ui-wizards:
-    repo: https://github.com/bytebuilders/ui-wizards
+    repo: https://github.com/appscode-cloud/ui-wizards
   /uibuilder-tools:
-    repo: https://github.com/bytebuilders/uibuilder-tools
+    repo: https://github.com/appscode-cloud/uibuilder-tools
