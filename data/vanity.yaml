@@ -21,6 +21,8 @@ paths:
     repo: https://github.com/appscode-cloud/cloud-marketplace-event-sink
   /cluster-presets:
     repo: https://github.com/appscode-cloud/cluster-presets
+  /fileserver:
+    repo: https://github.com/appscode-cloud/fileserver
   /installer:
     repo: https://github.com/appscode-cloud/installer
   /kube-auth-manager:
