@@ -45,6 +45,8 @@ paths:
     repo: https://github.com/appscode-cloud/offline-license-server
   /products:
     repo: https://github.com/appscode-cloud/products
+  /prom-authproxy:
+    repo: https://github.com/appscode-cloud/prom-authproxy
   /resource-model:
     repo: https://github.com/appscode-cloud/resource-model
   /service-provider:
