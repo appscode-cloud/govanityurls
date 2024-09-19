@@ -1,5 +1,4 @@
 host: go.bytebuilders.dev
-
 paths:
   /ace:
     repo: https://github.com/appscode-cloud/ace
@@ -15,10 +14,10 @@ paths:
     repo: https://github.com/appscode-cloud/cert-manager-webhook-ace
   /client:
     repo: https://github.com/appscode-cloud/client-go
-  /cloudflare-dns-proxy:
-    repo: https://github.com/appscode-cloud/cloudflare-dns-proxy
   /cloud-marketplace-event-sink:
     repo: https://github.com/appscode-cloud/cloud-marketplace-event-sink
+  /cloudflare-dns-proxy:
+    repo: https://github.com/appscode-cloud/cloudflare-dns-proxy
   /cluster-presets:
     repo: https://github.com/appscode-cloud/cluster-presets
   /fileserver:
@@ -47,6 +46,8 @@ paths:
     repo: https://github.com/appscode-cloud/products
   /prom-authproxy:
     repo: https://github.com/appscode-cloud/prom-authproxy
+  /rancher-authorizer:
+    repo: https://github.com/appscode-cloud/rancher-authorizer
   /resource-model:
     repo: https://github.com/appscode-cloud/resource-model
   /service-provider:
