@@ -2,6 +2,8 @@ host: go.bytebuilders.dev
 paths:
   /ace:
     repo: https://github.com/appscode-cloud/ace
+  /aceshifter:
+    repo: https://github.com/appscode-cloud/aceshifter
   /audit:
     repo: https://github.com/appscode-cloud/audit
   /b3:
