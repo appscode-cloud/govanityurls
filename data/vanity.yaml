@@ -6,6 +6,8 @@ paths:
     repo: https://github.com/appscode-cloud/aceshifter
   /audit:
     repo: https://github.com/appscode-cloud/audit
+  /authz-model:
+    repo: https://github.com/appscode-cloud/authz-model
   /b3:
     repo: https://github.com/appscode-cloud/b3
   /catalog:
