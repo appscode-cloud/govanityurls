@@ -62,3 +62,5 @@ paths:
     repo: https://github.com/appscode-cloud/ui-wizards
   /uibuilder-tools:
     repo: https://github.com/appscode-cloud/uibuilder-tools
+  /vcluster-plugin:
+    repo: https://github.com/appscode-cloud/vcluster-plugin
