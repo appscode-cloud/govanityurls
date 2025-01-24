@@ -1,7 +1,5 @@
 host: go.bytebuilders.dev
 paths:
-  /ace:
-    repo: https://github.com/appscode-cloud/ace
   /aceshifter:
     repo: https://github.com/appscode-cloud/aceshifter
   /audit:
@@ -16,6 +14,8 @@ paths:
     repo: https://github.com/appscode-cloud/catalog-manager
   /cert-manager-webhook-ace:
     repo: https://github.com/appscode-cloud/cert-manager-webhook-ace
+  /cli:
+    repo: https://github.com/appscode-cloud/cli
   /client:
     repo: https://github.com/appscode-cloud/client-go
   /cloud-marketplace-event-sink:
