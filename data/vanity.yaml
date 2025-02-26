@@ -46,6 +46,8 @@ paths:
     repo: https://github.com/appscode-cloud/nats-logger
   /offline-license-server:
     repo: https://github.com/appscode-cloud/offline-license-server
+  /openfga-syncer:
+    repo: https://github.com/appscode-cloud/openfga-syncer
   /products:
     repo: https://github.com/appscode-cloud/products
   /prom-authproxy:
