@@ -8,8 +8,6 @@ paths:
     repo: https://github.com/appscode-cloud/authz-model
   /b3:
     repo: https://github.com/appscode-cloud/b3
-  /outbox-syncer:
-    repo: https://github.com/appscode-cloud/outbox-syncer
   /catalog:
     repo: https://github.com/appscode-cloud/catalog
   /catalog-manager:
@@ -48,6 +46,8 @@ paths:
     repo: https://github.com/appscode-cloud/nats-logger
   /offline-license-server:
     repo: https://github.com/appscode-cloud/offline-license-server
+  /outbox-syncer:
+    repo: https://github.com/appscode-cloud/outbox-syncer
   /products:
     repo: https://github.com/appscode-cloud/products
   /prom-authproxy:
