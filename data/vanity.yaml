@@ -1,5 +1,7 @@
 host: go.bytebuilders.dev
 paths:
+  /acerproxy:
+    repo: https://github.com/appscode-cloud/acerproxy
   /aceshifter:
     repo: https://github.com/appscode-cloud/aceshifter
   /audit:
